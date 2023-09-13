@@ -1,5 +1,5 @@
 # Starter Web Project
-
+Tagging example
 This is a simple website project for showing how to use Git and Github together. Adding new line for rebasing example, more changes from my feature branch too. After stash. Multiple stash.
 This is a simple website project for showing how to use Git and Github together. Adding new line for rebasing example, more changes from my feature branch too. After stash
 
